@@ -184,10 +184,6 @@ header {
   margin-bottom: 50px;
   font-size: 32px;
   font-weight: 700;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  gap: 100px;
 }
 
 .contact-container {
